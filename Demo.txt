@@ -1,4 +1,3 @@
 Hello This is my First test file 
-i will keep my data here !!!!!
 
-I will be preparing Git-Commands!!!!
+I will keep my data here !!!!!!
